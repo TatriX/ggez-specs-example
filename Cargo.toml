@@ -1,0 +1,8 @@
+[package]
+name = "ggez-specs"
+version = "0.1.0"
+authors = ["TatriX <tatrics@gmail.com>"]
+
+[dependencies]
+ggez = { git = "https://github.com/ggez/ggez" }
+specs = "0.10"
